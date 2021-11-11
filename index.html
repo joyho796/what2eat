@@ -2,52 +2,64 @@
 <html>
 
 <head>
-    <title>cakecups</title>
+    <title>eat what?</title>
     <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,500;1,700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="script.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
 
-    <ul>
-    <li><a href="index.html" class="active">Home</a></li>
-    <li><a href="services.html">Services</a></li>
-    <li><a href="contact.html">Contact</a></li>
-    </ul>
+    <h1>eat what?</h1>
 
-    <h1>cakecups</h1>
-
-        <div id="main">
-        <br>
-        <h2>Our store is newly online!</h2>
-        <p style="text-align: center; width:auto;">For your safety and ours, you can now order cupcakes from our online store!</p>
-        <br>
-        <button class="button" onclick="document.location='services.html'">order now</button>
-        <br> <br>
-
-        <div id="flex" style="background-color: rgba(255, 222, 204, 0.2); flex-direction: column;">
-        <h2> Limited Seasonal Promotion </h2>
-        <img src="images/cny.png" alt="Blue Cupcakes"style="width: 30%">
-        <p style="padding: 10px"> Order our Chinese New Year special and get a coupon for 10% OFF!
-        </div>
-
-
-        <div id="flex" style="background-color: rgba(174, 206, 242, 0.2);">
-        <img src="images/blue.png" alt="Blue Cupcakes">
-        <p>Our cupcakes come in a variety of classic flavors: </br></br>
-        vanilla, chocolate, coffee, lemon, oreo, and more        </p>
-        </div>
-
-        <div id="flex" style="background-color: rgba(242, 220, 247, 0.2);">
-        <p>We also have limited seasonal flavors: </br></br>
-        pumpkin spice, caramel apple, peppermint mocha ... </br> </br>
-        Check back regularly to see whats on sale!
-        </p>
-        <img src="images/pink.png" alt="Blue Cupcakes">
-        </div>
-        </div>
-
+    <div class='tag-list' id='meal-size'>
+        <span class='tag-label'>Meal:</span>
+        <span class='tag'>snack</span>
+        <span class='tag'>breakfast</span>
+        <span class='tag'>lunch</span>
+        <span class='tag'>dinner</span>
     </div>
+
+
+    <div class='tag-list' id='meal-size'>
+        <span class='tag-label'>Cuisine:</span>
+        <span class='tag'>asian</span>
+        <span class='tag'>中</span>
+        <span class='tag'>日</span>
+        <span class='tag'>韩</span>
+        <span class='tag'>中西结合</span>
+        <span class='tag'>western</span>
+        <span class='tag'>italian</span>
+    </div>
+
+
+    <div class='tag-list' id='meal-size'>
+        <span class='tag-label'>Food:</span>
+        <span class='tag'>soupy</span>
+        <span class='tag'>炒</span>
+        <span class='tag'>pasta</span>
+        <span class='tag'>meat-rice combo</span>
+        <span class='tag'>noodles</span>
+        <span class='tag'>sandwich</span>
+    </div>
+
+
+    <div class='tag-list' id='meal-size'>
+        <span class='tag-label'>Cooking:</span>
+        <span class='tag'>easy</span>
+        <span class='tag'>外卖</span>
+        <span class='tag'>pressure cooker</span>
+        <span class='tag'>pan only</span>
+        <span class='tag'>pan + pot</span>
+        <span class='tag'>锅</span>
+        <span class='tag'>oven</span>
+    </div>
+
 
 </body>
 </html>
