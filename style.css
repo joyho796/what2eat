@@ -45,6 +45,5 @@ h1 {
     color: var(--base);
 }
 .tag:hover {
-    background-color: var(--accent);
-    color: var(--base);
+    cursor: pointer;
 }
