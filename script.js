@@ -8,11 +8,13 @@ var cookingList = ["microwave", "外卖", "pressure cooker", "pan only", "pan + 
 var timeList = ["5 minutes", "15 minutes", "30 minutes", "1 hour", "2 hours"];
 
 function updateList(foods, selectedList) {
+    selected = selectedList.flat();
+    foods = shuffle(foods);
+    console.log(selected);
+    dataHTML = "";
     foods.forEach(function(food){
         var tags = food.tags;
-        selected = selectedList.flat();
         if (tags.some(r=> selected.includes(r))) {
-            dataHTML = "";
             var cuisine = [];
             tags.forEach(function(tag){
                 if (cuisineList.includes(tag)) {

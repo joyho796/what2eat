@@ -25,9 +25,9 @@
 
 	{
 		"name": "Chicken Alfredo",
-		"tags": ["dinner", "western", "italian", "pasta", "pan + pot", "1 hour"],
+		"tags": ["dinner", "western", "italian", "pasta", "pan + pot", "30 minutes"],
 		"ingredients": ["pasta", "chicken", "cream", "garlic", "shallots"],
-		"time": "1 hour",
+		"time": "30 minutes",
 		"img": "./img/chicken-alfredo.jpg"
 	},
 
