@@ -24,10 +24,9 @@ button {
     padding-left: 1em;
     padding-right: 1em;
     margin: 42px;
-    background-color: var(--accent);
-    border: 2px solid var(--base);
+    background-color: var(--base);
+    border: 2px solid black;
     border-radius: 20px;
-    display: none
 }
 
 #open-nav {
