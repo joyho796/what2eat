@@ -66,7 +66,7 @@
 	{
 		"name": "牛肉面",
 		"tags": ["lunch", "dinner", "asian", "chinese", "soupy", "noodles", "pressure cooker", "2 hours"],
-		"ingredients": ["beef", "beef", "tomato", "onion", "soy sauce", "豆瓣酱"],
+		"ingredients": ["beef", "beef", "tomato", "onion", "soy sauce"],
 		"time": "2 hours",
 		"img": "./img/beefnood.jpg"
 	},
