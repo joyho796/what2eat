@@ -11,10 +11,18 @@ $(document).ready(function(){
 
         dataHTML = "";
         foods.forEach(function(food){
+            var tags = food.tags;
+            var cuisine = [];
+            cuisineList = ["asian", "中", "日", "韩", "中西结合", "western", "italian"];
+            tags.forEach(function(tag){
+                if (cuisineList.includes(tag)) {
+                    cuisine.push(tag);
+                }
+            })
             dataHTML += "<div class='food-item'>";
             dataHTML += "<img src='" + food.img + "'><div class='food-desc'>";
             dataHTML += "<span class='food-name'>" + food.name + "</span><br>";
-            dataHTML += "<span class='food-tags'>" + food.tags.join(", ") + "</span><hr>";
+            dataHTML += "<span class='food-tags'>" + cuisine.join(", ") + "</span><hr>";
             dataHTML += "<span class='food-ingredients'>" + food.ingredients.join(", ") + "</span><br>";
             dataHTML += "<span class='food-time'>" + food.time + "</span></div></div>";
         });
