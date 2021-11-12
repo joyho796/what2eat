@@ -18,8 +18,8 @@
     <h1>eat what?</h1>
 
     <div id='filters'>
+        <span class='tag-label'>meal:</span>
         <div class='tag-list' id='meal'>
-            <span class='tag-label'>meal:</span>
             <span class='tag'>snack</span>
             <span class='tag'>breakfast</span>
             <span class='tag'>lunch</span>
@@ -27,21 +27,19 @@
             <span class='tag'>side dish</span>
         </div>
 
-
+        <span class='tag-label'>cuisine:</span>
         <div class='tag-list' id='cuisine'>
-            <span class='tag-label'>cuisine:</span>
             <span class='tag'>asian</span>
-            <span class='tag'>中</span>
-            <span class='tag'>日</span>
+            <span class='tag'>chinese</span>
+            <span class='tag'>japanese</span>
             <span class='tag'>韩</span>
-            <span class='tag'>中西结合</span>
+            <span class='tag'>chinese西结合</span>
             <span class='tag'>western</span>
             <span class='tag'>italian</span>
         </div>
 
-
+        <span class='tag-label'>type:</span>
         <div class='tag-list' id='type'>
-            <span class='tag-label'>type:</span>
             <span class='tag'>soupy</span>
             <span class='tag'>炒</span>
             <span class='tag'>pasta</span>
@@ -51,9 +49,8 @@
             <span class='tag'>vegetable</span>
         </div>
 
-
+        <span class='tag-label'>cooking:</span>
         <div class='tag-list' id='cooking'>
-            <span class='tag-label'>cooking:</span>
             <span class='tag'>microwave</span>
             <span class='tag'>外卖</span>
             <span class='tag'>pressure cooker</span>
@@ -63,8 +60,8 @@
             <span class='tag'>oven</span>
         </div>
 
+        <span class='tag-label'>time:</span>
         <div class='tag-list' id='time'>
-            <span class='tag-label'>time:</span>
             <span class='tag'>5 minutes</span>
             <span class='tag'>15 minutes</span>
             <span class='tag'>30 minutes</span>
@@ -73,30 +70,15 @@
         </div>
     </div>
 
-    <br><br>
+    <br>
 
-    <div id='food-list'>
-        <div class='food-item'>
-            <img src='./img/spaghetti.jpg'>
-            <div class='food-desc'>
-                <span class='food-name'>Spaghetti Bolognese</span><br>
-                <span class='food-cuisine'>western, italian</span>
-                <hr>
-                <span class='food-ingredients'>pasta, beef, pork, tomato, celery, carrot, onion</span><br>
-                <span class='food-time'>Ready in 2 hours</span>
-            </div>
-        </div>
-
-        <div class='food-item'>
-            <img src='./beefnood.jpg'>
-            <div class='food-desc'>
-                <span class='food-name'>牛肉面</span><br>
-                <span class='food-cuisine'>asian, chinese</span>
-                <hr>
-                <span class='food-ingredients'>noodles, beef, tomato, onion</span>
-            </div>
-        </div>
+    <div style='text-align: center;'>
+        <button id='shuffle' onclick='displayAll()'>shuffle</button>
     </div>
+
+    <br>
+
+    <div id='food-list'></div>
 
 </body>
 </html>

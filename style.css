@@ -16,6 +16,19 @@ h1 {
     background-color: var(--base);
 }
 
+button {
+    font-family: "Poppins", sans-serif;
+    color: var(--base);
+    font-size: 18px;
+    padding: 0.25em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0.5em;
+    background-color: var(--accent);
+    border: 2px solid var(--accent);
+    border-radius: 20px;
+}
+
 .tag-list {
     text-align: left;
     padding: 1em;
@@ -26,8 +39,11 @@ h1 {
 }
 
 .tag-label {
+    display: block;
     font-weight: bold;
+    padding-left: 3em;
     padding-right: 0.25em;
+    padding-top: 0.5em;
 }
 
 .tag {
@@ -45,7 +61,7 @@ h1 {
     background-color: var(--accent);
     color: var(--base);
 }
-.tag:hover {
+.tag:hover, button:hover {
     cursor: pointer;
 }
 
@@ -56,11 +72,12 @@ h1 {
     width: 90vw;
     min-height: 33vw;
     border-radius: 12px;
-    background-color: rgb(240,240,240);
+    background-color: rgb(245, 245, 245);
 }
 
 .food-item img {
-    width: 33vw;
+    max-width: 33vw;
+    min-width: 33vw;
     display: inline;
     border-top-left-radius: 12px;
     border-bottom-left-radius: 12px;
