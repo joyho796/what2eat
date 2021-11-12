@@ -28,7 +28,7 @@
 		"tags": ["dinner", "western", "italian", "pasta", "pan + pot", "1 hour"],
 		"ingredients": ["pasta", "chicken", "cream", "garlic", "shallots"],
 		"time": "1 hour",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/chicken-alfredo.jpg"
 	},
 
 	{
@@ -36,7 +36,7 @@
 		"tags": ["dinner", "western", "meat-rice combo", "pan only", "30 minutes"],
 		"ingredients": ["salmon"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/salmon.jpg"
 	},
 
 	{
@@ -44,7 +44,7 @@
 		"tags": ["lunch", "asian", "日", "pan only", "15 minutes"],
 		"ingredients": ["pork"],
 		"time": "15 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/gyoza.jpg"
 	},
 
 	{
@@ -52,7 +52,7 @@
 		"tags": ["lunch", "dinner", "western", "italian", "15 minutes", "oven", "15 minutes"],
 		"ingredients": ["cheese"],
 		"time": "15 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/pizza.jpg"
 	},
 
 	{
@@ -60,7 +60,7 @@
 		"tags": ["dinner", "western", "italian", "pasta", "pressure cooker", "2 hours"],
 		"ingredients": ["pasta", "beef", "pork", "tomato", "carrot", "celery", "onion", "shallot", "garlic"],
 		"time": "2 hours",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/spaghetti.jpg"
 	},
 
 	{
@@ -68,7 +68,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "soupy", "noodles", "pressure cooker", "2 hours"],
 		"ingredients": ["beef", "beef", "tomato", "onion", "soy sauce", "豆瓣酱"],
 		"time": "2 hours",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/beefnood.jpg"
 	},
 
 	{
@@ -76,7 +76,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "pressure cooker", "2 hours"],
 		"ingredients": ["pork", "egg", "onion", "shallot", "soy sauce"],
 		"time": "2 hours",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/luroufan.jpg"
 	},
 
 	{
@@ -84,7 +84,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "noodles", "锅", "30 minutes"],
 		"ingredients": ["noodles", "pork", "carrot", "shallot", "soy sauce"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/chaomian.jpg"
 	},
 
 		{
@@ -92,7 +92,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["rice", "shrimp", "imitation crab", "chicken", "egg", "葱", "soy sauce"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/chaofan.jpg"
 	},
 
 	{
@@ -100,7 +100,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["年糕", "pork", "carrot", "shallot", "soy sauce"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/chaomian.jpg"
 	},
 
 		{
@@ -108,7 +108,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["乌冬面", "pork", "carrot", "shallot", "soy sauce"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/chaomian.jpg"
 	},
 
 	{
@@ -116,7 +116,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["pasta", "pork", "carrot", "shallot", "soy sauce"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/chaomian.jpg"
 	},
 
 	{
@@ -124,7 +124,7 @@
 		"tags": ["lunch", "dinner", "asian", "日", "soupy", "noodles", "15 minutes"],
 		"ingredients": ["乌冬面", "beef", "miso"],
 		"time": "15 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/udon.jpg"
 	},
 
 	{
@@ -132,7 +132,7 @@
 		"tags": ["lunch", "asian", "韩", "炒", "noodles", "pan only", "30 minutes"],
 		"ingredients": ["粉丝", "beef", "bell pepper", "garlic", "soy sauce", "sugar", "香油"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/japchae.jpg"
 	},
 
 
@@ -141,7 +141,7 @@
 		"tags": ["dinner", "asian", "中西结合", "oven", "2 hours"],
 		"ingredients": ["rice", "chicken", "egg", "onion", "cheese"],
 		"time": "2 hours",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/jufan.jpg"
 	},
 
 	{
@@ -149,7 +149,7 @@
 		"tags": ["dinner", "asian", "韩", "mean-rice combo", "30 minutes"],
 		"ingredients": ["beef", "marinade"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/kbbq.jpg"
 	},
 
 
@@ -158,7 +158,7 @@
 		"tags": ["lunch", "dinner", "日", "锅", "30 minutes"],
 		"ingredients": ["chicken", "beef", "carrot", "potato", "onion"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/curry.jpg"
 	},
 
 	{
@@ -166,7 +166,7 @@
 		"tags": ["lunch", "dinner", "asian", "中", "中西结合", "pasta", "noodles", "炒", "pan only", "30 minutes"],
 		"ingredients": ["pasta", "beef", "bell pepper", "onion", "shallot", "garlic", "soy sauce"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/beefpasta.jpg"
 	},
 
 
@@ -175,7 +175,7 @@
 		"tags": ["lunch", "dinner", "western", "sandwich", "pan only", "30 minutes"],
 		"ingredients": ["beef", "bread", "cheese"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/burger.jpg"
 	},
 
 	{
@@ -183,7 +183,7 @@
 		"tags": ["dinner", "western", "soupy", "pressure cooker", "2 hours"],
 		"ingredients": ["pasta", "beef", "tomato", "carrot", "celery", "onion", "shallot", "garlic"],
 		"time": "2 hours",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/vegsoup.jpg"
 	},
 
 
@@ -192,7 +192,7 @@
 		"tags": ["dinner", "pasta", "western", "pan only", "oven", "30 minutes"],
 		"ingredients": ["pasta", "cheese", "garlic", "shallot"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/mac.jpg"
 	},
 
 	{
