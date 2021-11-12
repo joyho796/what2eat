@@ -3,119 +3,136 @@
 		"name": "Teriyaki Chicken",
 		"tags": ["lunch", "dinner", "asian", "日", "meat-rice combo", "pan only", "30 minutes"],
 		"ingredients": ["chicken", "shallot", "soy sauce", "sugar"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "煎三文鱼",
 		"tags": ["lunch", "dinner", "asian", "中", "中西结合", "meat-rice combo", "pan only", "30 minutes"],
 		"ingredients": ["salmon", "shallot", "蒸鱼豉油"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/salmon.jpg"
 	},
 
 	{
 		"name": "Grilled Chicken",
 		"tags": ["dinner", "western", "meat-rice combo", "pan only", "30 minutes"],
 		"ingredients": ["chicken", "garlic"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/chicken.jpg"
 	},
 
 	{
 		"name": "Chicken Alfredo",
 		"tags": ["dinner", "western", "italian", "pasta", "pan + pot", "1 hour"],
 		"ingredients": ["pasta", "chicken", "cream", "garlic", "shallots"],
-		"time": "1 hour"
+		"time": "1 hour",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Grilled Salmon",
 		"tags": ["dinner", "western", "meat-rice combo", "pan only", "30 minutes"],
 		"ingredients": ["salmon"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Gyoza",
 		"tags": ["lunch", "asian", "日", "pan only", "15 minutes"],
 		"ingredients": ["pork"],
-		"time": "15 minutes"
+		"time": "15 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Pizza",
 		"tags": ["lunch", "dinner", "western", "italian", "15 minutes", "oven", "15 minutes"],
 		"ingredients": ["cheese"],
-		"time": "15 minutes"
+		"time": "15 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Spaghetti Bolognese",
 		"tags": ["dinner", "western", "italian", "pasta", "pressure cooker", "2 hours"],
 		"ingredients": ["pasta", "beef", "pork", "tomato", "carrot", "celery", "onion", "shallot", "garlic"],
-		"time": "2 hours"
+		"time": "2 hours",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "牛肉面",
 		"tags": ["lunch", "dinner", "asian", "中", "soupy", "noodles", "pressure cooker", "2 hours"],
 		"ingredients": ["beef", "beef", "tomato", "onion", "soy sauce", "豆瓣酱"],
-		"time": "2 hours"
+		"time": "2 hours",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "卤肉饭",
 		"tags": ["lunch", "dinner", "asian", "中", "pressure cooker", "2 hours"],
 		"ingredients": ["pork", "egg", "onion", "shallot", "soy sauce"],
-		"time": ""
+		"time": "2 hours",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "炒面",
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "noodles", "锅", "30 minutes"],
 		"ingredients": ["noodles", "pork", "carrot", "shallot", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 		{
 		"name": "炒饭",
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["rice", "shrimp", "imitation crab", "chicken", "egg", "葱", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "炒年糕",
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["年糕", "pork", "carrot", "shallot", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 		{
 		"name": "炒乌冬面",
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["乌冬面", "pork", "carrot", "shallot", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "炒通心粉",
 		"tags": ["lunch", "dinner", "asian", "中", "炒", "锅", "30 minutes"],
 		"ingredients": ["pasta", "pork", "carrot", "shallot", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "乌冬",
 		"tags": ["lunch", "dinner", "asian", "日", "soupy", "noodles", "15 minutes"],
 		"ingredients": ["乌冬面", "beef", "miso"],
-		"time": "15 minutes"
+		"time": "15 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "炒杂菜",
 		"tags": ["lunch", "asian", "韩", "炒", "noodles", "pan only", "30 minutes"],
 		"ingredients": ["粉丝", "beef", "bell pepper", "garlic", "soy sauce", "sugar", "香油"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -123,14 +140,16 @@
 		"name": "焗饭",
 		"tags": ["dinner", "asian", "中西结合", "oven", "2 hours"],
 		"ingredients": ["rice", "chicken", "egg", "onion", "cheese"],
-		"time": "2 hours"
+		"time": "2 hours",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Korean BBQ",
 		"tags": ["dinner", "asian", "韩", "mean-rice combo", "30 minutes"],
 		"ingredients": ["beef", "marinade"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -138,14 +157,16 @@
 		"name": "Curry",
 		"tags": ["lunch", "dinner", "日", "锅", "30 minutes"],
 		"ingredients": ["chicken", "beef", "carrot", "potato", "onion"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "黑椒牛柳意面",
 		"tags": ["lunch", "dinner", "asian", "中", "中西结合", "pasta", "noodles", "炒", "pan only", "30 minutes"],
 		"ingredients": ["pasta", "beef", "bell pepper", "onion", "shallot", "garlic", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -153,14 +174,16 @@
 		"name": "Burger",
 		"tags": ["lunch", "dinner", "western", "sandwich", "pan only", "30 minutes"],
 		"ingredients": ["beef", "bread", "cheese"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Vegetable Soup",
 		"tags": ["dinner", "western", "soupy", "pressure cooker", "2 hours"],
 		"ingredients": ["pasta", "beef", "tomato", "carrot", "celery", "onion", "shallot", "garlic"],
-		"time": "2 hours"
+		"time": "2 hours",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -168,14 +191,16 @@
 		"name": "Mac n' Cheese",
 		"tags": ["dinner", "pasta", "western", "pan only", "oven", "30 minutes"],
 		"ingredients": ["pasta", "cheese", "garlic", "shallot"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Turkey Cheese Sandwich",
 		"tags": ["snack", "lunch", "western", "sandwich", "microwave", "5 minutes"],
 		"ingredients": ["bread", "turkey", "cheese"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -183,84 +208,96 @@
 		"name": "Tuna Sandwich",
 		"tags": ["snack", "lunch", "western", "sandwich", "microwave", "5 minutes"],
 		"ingredients": ["bread", "tuna", "cheese"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Steak Sandwich",
 		"tags": ["lunch", "western", "sandwich", "15 minutes", "pan only"],
 		"ingredients": ["bread", "steak", "bell pepper", "cheese"],
-		"time": "15 minutes"
+		"time": "15 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "西红柿炒鸡蛋",
 		"tags": ["lunch", "side dish", "dinner", "asian", "中", "炒", "锅", "pan only", "15 minutes"],
 		"ingredients": ["tomato", "egg", "葱"],
-		"time": "15 minutes"
+		"time": "15 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "鸡蛋西红柿面",
 		"tags": ["lunch", "dinner", "asian", "中", "noodles", "pan + pot", "30 minutes"],
 		"ingredients": ["noodles", "tomato", "egg", "shallot", "soy sauce"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Spinach",
 		"tags": ["lunch", "dinner", "side dish", "western", "vegetable", "pan only", "5 minutes"],
 		"ingredients": ["spinach", "garlic"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "菜花小炒肉",
 		"tags": ["side dish", "lunch", "dinner", "asian", "中", "vegetable", "炒", "锅", "pan only", "15 minutes"],
 		"ingredients": ["cauliflower", "pork", "shallot", "garlic", "soy sauce", "豆瓣酱"],
-		"time": "15 minutes"
+		"time": "15 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Cauliflower",
 		"tags": ["lunch", "dinner", "side dish", "western", "vegetable", "pan only", "5 minutes"],
 		"ingredients": ["cauliflower", "shallot", "garlic"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Broccoli",
 		"tags": ["lunch", "dinner", "side dish", "western", "vegetable", "pan only", "5 minutes"],
 		"ingredients": ["broccoli", "garlic"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "清炒油菜",
 		"tags": ["side dish", "lunch", "dinner", "asian", "中", "vegetable", "炒", "pan only", "5 minutes"],
 		"ingredients": ["油菜", "garlic"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "炒圆白菜",
 		"tags": ["side dish", "lunch", "dinner", "asian", "中", "vegetable", "炒", "pan only", "5 minutes"],
 		"ingredients": ["圆白菜", "garlic", "虾皮"],
-		"time": "5 minutes"
+		"time": "5 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "汤面",
 		"tags": ["lunch", "dinner", "asian", "中", "soupy", "noodles", "锅", "30 minutes"],
 		"ingredients": ["noodles", "pork", "tomato", "egg", "shallot", "油菜"],
-		"time": "30 minutes"
+		"time": "30 minutes",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Poké",
 		"tags": ["lunch", "asian", "日", "外卖"],
 		"ingredients": ["salmon", "tuna", "rice"],
-		"time": "外卖"
+		"time": "外卖",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -268,14 +305,16 @@
 		"name": "Pho",
 		"tags": ["lunch", "dinner", "asian", "soupy", "noodles", "外卖"],
 		"ingredients": ["河粉", "beef"],
-		"time": "外卖"
+		"time": "外卖",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Ramen",
 		"tags": ["lunch", "dinner", "asian", "日", "soupy", "noodles", "外卖"],
 		"ingredients": ["noodles", "pork"],
-		"time": "外卖"
+		"time": "外卖",
+		"img": "./img/teriyaki.jpg"
 	},
 
 
@@ -283,13 +322,15 @@
 		"name": "Taco",
 		"tags": ["lunch", "dinner", "western", "外卖"],
 		"ingredients": ["tortilla", "pork", "tomato", "cheese"],
-		"time": "外卖"
+		"time": "外卖",
+		"img": "./img/teriyaki.jpg"
 	},
 
 	{
 		"name": "Burrito",
 		"tags": ["lunch", "dinner", "western", "外卖"],
 		"ingredients": ["tortilla", "pork", "tomato", "cheese"],
-		"time": "外卖"
+		"time": "外卖",
+		"img": "./img/teriyaki.jpg"
 	}
 ]
