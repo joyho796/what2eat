@@ -23,45 +23,61 @@ button {
     padding: 0.25em;
     padding-left: 1em;
     padding-right: 1em;
-    margin: 0.5em;
+    margin: 42px;
     background-color: var(--accent);
-    border: 2px solid var(--accent);
+    border: 2px solid var(--base);
     border-radius: 20px;
+}
+
+#open-nav {
+    position: absolute;
+    font-size: 69px;
+    right: 46px;
+}
+
+#nav {
+    background-color: var(--accent);
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    top: 0;
+    overflow-y: scroll;
+    z-index: 1;
 }
 
 .tag-list {
     text-align: left;
-    padding: 1em;
-    padding-left: 2em;
-    background-color: var(--base);
+    padding-left: 24px;
     overflow: scroll;
-    white-space: nowrap;
 }
 
 .tag-label {
     display: block;
     font-weight: bold;
-    padding-left: 3em;
-    padding-right: 0.25em;
-    padding-top: 0.5em;
+    font-size: 18px;
+    padding: 12px;
+    padding-left: 46px;
+    padding-top: 24px;
 }
 
 .tag {
-    color: var(--accent);
+    color: var(--base);
     padding: 0.25em;
     padding-left: 1em;
     padding-right: 1em;
     margin: 0.5em;
-    background-color: var(--base);
-    border: 2px solid var(--accent);
+    background-color: var(--accent);
+    border: 2px solid var(--base);
     border-radius: 20px;
+    display: inline-block;
 }
 
 .tag.active {
-    background-color: var(--accent);
-    color: var(--base);
+    background-color: var(--base);
+    color: var(--accent);
 }
-.tag:hover, button:hover {
+.tag:hover, button:hover, #open-nav:hover, #close-nav:hover {
     cursor: pointer;
 }
 

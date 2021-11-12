@@ -121,6 +121,18 @@ $(document).ready(function(){
 
     });
 
+    $("#close-nav").click(function(){
+        $("#nav").slideUp(500);
+    });
+
+    $("#shuffle").click(function(){
+        $("#nav").slideUp(500);
+    });
+
+    $("#open-nav").click(function(){
+        $("#nav").slideDown(500);
+    });
+
 });
 
         

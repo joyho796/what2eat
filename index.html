@@ -15,9 +15,14 @@
 
 <body>
 
+    <button id='shuffle' onclick='displayAll()' style="position:absolute;margin-left: 46x;">shuffle</button>
+    <span id='open-nav'>&#8801</span>
     <h1>eat what?</h1>
 
-    <div id='filters'>
+    <div id='nav'>
+        <h2 style='left: 46px; top: 36px; position: absolute;'>Narrow Search</h2>
+        <h2 id='close-nav' style='right:46px; top: 36px; position: absolute;'>Close</h2>
+        <br><br><br><br><br>
         <span class='tag-label'>meal:</span>
         <div class='tag-list' id='meal'>
             <span class='tag'>snack</span>
@@ -67,15 +72,10 @@
             <span class='tag'>30 minutes</span>
             <span class='tag'>2 hours</span>
         </div>
+
+        <br><br><br><br><br>
+
     </div>
-
-    <br>
-
-    <div style='text-align: center;'>
-        <button id='shuffle' onclick='displayAll()'>reset</button>
-    </div>
-
-    <br>
 
     <div id='food-list'></div>
 
