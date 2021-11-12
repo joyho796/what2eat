@@ -2,6 +2,7 @@
     --base: rgb(255, 255, 255);
     --accent: rgb(255, 102, 94);
 }
+
 body {
     margin: 0;
     padding: 0;
@@ -17,7 +18,8 @@ h1 {
 
 .tag-list {
     text-align: left;
-    padding: 2em;
+    padding: 1em;
+    padding-left: 2em;
     background-color: var(--base);
     overflow: scroll;
     white-space: nowrap;
@@ -33,7 +35,6 @@ h1 {
     padding: 0.25em;
     padding-left: 1em;
     padding-right: 1em;
-    margin: 2em;
     margin: 0.5em;
     background-color: var(--base);
     border: 2px solid var(--accent);
@@ -46,4 +47,51 @@ h1 {
 }
 .tag:hover {
     cursor: pointer;
+}
+
+.food-item {
+    display: flex;
+    margin: auto;
+    margin-bottom: 2em;
+    width: 90vw;
+    min-height: 33vw;
+    border-radius: 12px;
+    background-color: rgb(240,240,240);
+}
+
+.food-item img {
+    width: 33vw;
+    display: inline;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    object-fit: cover;
+}
+
+.food-desc {
+    width: 67vw;
+    padding: 0.67em;
+    padding-left: 1.33em;
+    padding-right: 1.33em;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.food-name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.food-cuisine {
+    color: rgb(140, 140, 140);
+    font-size: 13px;
+    font-style: italic;
+}
+
+.food-time {
+    color: rgb(100, 100, 100);
+    font-size: 14px;
+}
+
+.food-ingredients {
+    font-size: 15px;
 }
