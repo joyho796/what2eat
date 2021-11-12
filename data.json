@@ -241,7 +241,7 @@
 		"tags": ["lunch", "dinner", "side dish", "western", "vegetable", "pan only", "5 minutes"],
 		"ingredients": ["spinach", "garlic"],
 		"time": "5 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/spinach.jpg"
 	},
 
 	{
@@ -249,7 +249,7 @@
 		"tags": ["side dish", "lunch", "dinner", "asian", "chinese", "vegetable", "炒", "锅", "pan only", "15 minutes"],
 		"ingredients": ["cauliflower", "pork", "shallot", "garlic", "soy sauce", "豆瓣酱"],
 		"time": "15 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/caulipork.jpg"
 	},
 
 	{
@@ -257,7 +257,7 @@
 		"tags": ["lunch", "dinner", "side dish", "western", "vegetable", "pan only", "5 minutes"],
 		"ingredients": ["cauliflower", "shallot", "garlic"],
 		"time": "5 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/cauli.jpg"
 	},
 
 	{
@@ -265,7 +265,7 @@
 		"tags": ["lunch", "dinner", "side dish", "western", "vegetable", "pan only", "5 minutes"],
 		"ingredients": ["broccoli", "garlic"],
 		"time": "5 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/brocc.jpg"
 	},
 
 	{
@@ -273,7 +273,7 @@
 		"tags": ["side dish", "lunch", "dinner", "asian", "chinese", "vegetable", "炒", "pan only", "5 minutes"],
 		"ingredients": ["油菜", "garlic"],
 		"time": "5 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/youcai.jpg"
 	},
 
 	{
@@ -281,7 +281,7 @@
 		"tags": ["side dish", "lunch", "dinner", "asian", "chinese", "vegetable", "炒", "pan only", "5 minutes"],
 		"ingredients": ["圆白菜", "garlic", "虾皮"],
 		"time": "5 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/yuan.jpg"
 	},
 
 	{
@@ -289,7 +289,7 @@
 		"tags": ["lunch", "dinner", "asian", "chinese", "soupy", "noodles", "锅", "30 minutes"],
 		"ingredients": ["noodles", "pork", "tomato", "egg", "shallot", "油菜"],
 		"time": "30 minutes",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/tangmian.jpg"
 	},
 
 	{
@@ -297,16 +297,15 @@
 		"tags": ["lunch", "asian", "japanese", "外卖"],
 		"ingredients": ["salmon", "tuna", "rice"],
 		"time": "外卖",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/poke.jpg"
 	},
-
 
 	{
 		"name": "Pho",
 		"tags": ["lunch", "dinner", "asian", "soupy", "noodles", "外卖"],
 		"ingredients": ["河粉", "beef"],
 		"time": "外卖",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/pho.jpg"
 	},
 
 	{
@@ -314,7 +313,7 @@
 		"tags": ["lunch", "dinner", "asian", "japanese", "soupy", "noodles", "外卖"],
 		"ingredients": ["noodles", "pork"],
 		"time": "外卖",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/ramen.jpg"
 	},
 
 
@@ -323,7 +322,7 @@
 		"tags": ["lunch", "dinner", "western", "外卖"],
 		"ingredients": ["tortilla", "pork", "tomato", "cheese"],
 		"time": "外卖",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/taco.jpg"
 	},
 
 	{
@@ -331,6 +330,6 @@
 		"tags": ["lunch", "dinner", "western", "外卖"],
 		"ingredients": ["tortilla", "pork", "tomato", "cheese"],
 		"time": "外卖",
-		"img": "./img/teriyaki.jpg"
+		"img": "./img/burrito.jpg"
 	}
 ]
